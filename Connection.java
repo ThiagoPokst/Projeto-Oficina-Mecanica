@@ -16,7 +16,8 @@ public class ConnectionFactory {
     private static final String URL = "jdbc:mysql://localhost:3306/nomedodatabese";
     private static final String USER = "nomedousuario";
     private static final String PASS = "senhadousuario";
-  
+    
+    //Método de conexão com o BD (por meio do conector)
     public static Connection getConnection(){
         
         try {
