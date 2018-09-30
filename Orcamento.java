@@ -7,9 +7,9 @@ package model.bean;
 
 /**
  *
- * @author Maxtor IV
+ * @author Leandro
  */
-public class orcamento {
+public class Orcamento {
     
     private int Orc_id;
     private int Nat_id;
