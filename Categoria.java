@@ -9,7 +9,7 @@ package model.bin;
  *
  * @author Thiago
  */
-public class categoria {
+public class Categoria {
     private int Cat_id;
     private String Cat_descricao;
 
