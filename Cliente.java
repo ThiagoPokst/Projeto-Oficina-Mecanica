@@ -9,7 +9,7 @@ package model.bin;
  *
  * @author Thiago
  */
-public class cliente {
+public class Cliente {
     private int Cli_id;
     private String Cli_nome;
     private String Cli_cpf;
