@@ -9,7 +9,7 @@ package model.bin;
  *
  * @author Thiago
  */
-public class funcionario {
+public class Funcionario {
     private int Fun_id;
     private String Fun_nome;
     private String Fun_cargo;
