@@ -7,7 +7,7 @@ package model.bean;
 
 /**
  *
- * @author Maxtor IV
+ * @author Leandro
  */
 public class os {
     private int Os_id;
