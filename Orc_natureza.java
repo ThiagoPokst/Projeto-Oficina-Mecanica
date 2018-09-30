@@ -9,7 +9,7 @@ package model.bin;
  *
  * @author Thiago
  */
-public class orc_natureza {
+public class Orc_natureza {
     private int Nat_id;
     private String Nat_descricao;
 
